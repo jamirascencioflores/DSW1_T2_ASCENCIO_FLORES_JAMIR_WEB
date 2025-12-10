@@ -1,6 +1,4 @@
-### 2. README para el Frontend (`DSW1_T2_ASCENCIO_FLORES_JAMIR_WEB`)
-
-Crea un archivo `README.md` en la carpeta raíz de tu proyecto React y pega esto:
+(`DSW1_T2_ASCENCIO_FLORES_JAMIR_WEB`)
 
 ```markdown
 # Evaluación T2 - Cliente Web Biblioteca
