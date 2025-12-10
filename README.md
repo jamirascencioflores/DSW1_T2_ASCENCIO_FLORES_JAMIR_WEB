@@ -1,6 +1,5 @@
 (`DSW1_T2_ASCENCIO_FLORES_JAMIR_WEB`)
 
-```markdown
 # Evaluación T2 - Cliente Web Biblioteca
 
 ## Autor
